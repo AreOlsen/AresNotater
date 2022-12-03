@@ -1,0 +1,6 @@
+# Rød og blå forskyvning.
+
+## [[Dopplereffekten]] for [[EM bølger|Elektromagnetiske bølger]].
+Når stjerner og galakser/ objekter beveger seg i frå/ i mot ein observatør med stor hastighet blir dei [[EM bølger|elektromagnetiske bølgene]] forskyvet i bølgelengde. Dette er nøyaktig likt som med [[Dopplereffekten]]. Når objektet beveger seg raskt i mot observatøren vil bølgelengden av bølgene utgitt i frå objektet bli kortere, likt er det omvendt når det beveger seg raskt i frå observatøren då blir bølgene utgitt i frå objektet lengre. Når det kommer til farger og det synlege lysspekteret, blir altså dei røde fargene blåe når det beveger seg i mot oss/observatøren, og dei blåe fargene blir røde når det beveger seg i frå oss/observatøren. Dei røde fargene går ut av det synlege lysspekteret når objektet/planeten/stjernen beveger i stor hastighet i frå observatøren, då vil bølgelengden gå meir i mot Infrarød stråling som vi ikkje kan sjå. Likt går dei blåe/lilla lysbølgene/elektromagnetiske bølgene ut av det synlege spekteret når strålene utgitt i frå objektet/planeten/stjernen beveger seg i stor hastighet i mot observatøren.
+
+![650](https://www.uio.no/studier/emner/matnat/astro/AST2000/h17/elines-blogg/Planeter%20og%20planetbaner/redshift_blueshift.svg)

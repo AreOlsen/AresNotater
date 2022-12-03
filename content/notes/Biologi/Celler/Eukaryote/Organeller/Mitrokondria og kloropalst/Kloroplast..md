@@ -1,0 +1,8 @@
+# Kloroplast.
+
+Kloroplast er berre funnet i planter og fotosyntetiske alger. (Mennesker og andre dyr har ikkje kloroplast. ) Kloroplastens jobb er å omdanne $CO_2$ og $H_2O$ over til $C_6H_{12}O_6+O_2$ gjennom ein rpsess alt "fotosyntese". [[Fotosyntesen]] omdanner stoffer over til druesukker  ($C_6H_{12}O_6$) med solernergi. Slik at planten kan bruke det.
+
+I [[Metabolisme.#Bygge opp glukose Fotosyntesen|fotosyntesen]], [[Fotosyntesen]] blir solenergi fanget og brukt til å lage sakkarider i frå $CO_2$ og $H_2O$. [[Karbohydrater.|sakkaridene]] produsert i fotosyntesen kan bli brukt av plantecellen eller spist av eit organisme som eit menneske. Energien lagret i disse sakkaridene blir høstet slik at [[Introduksjon til cellen.|cellen]] kan bruke energien i gjennom ein prosess som heiter "[[Cellulær respirasjon.]]" som skjer i [[Mitokondria]] av dei [[Introduksjon til eukaryote celler.|eukaryote cellene]]. Kloroplaster disk formet [[Kva er organeller - organeller i eukaryotiske celler.|organller]] og har ytre og indre [[Introduksjon til cellemembranen|membraner]] med eit "intermembran rom" i mellom. I senteret (innerst inne i kloroplastet) finner ein membranbundet disker kjent som "Thylakoider" arrangert i sammenkoblede stabetl kalt "Grana" (Eintall:"Granum"). I dise diskene er det lysfangenede komplekser som inneholder klorofyll (eit pigment som gir cellen fargen). Thylakoider er hule og rommet inne i er kjent som  "lumen". Og væsken som omrignder Thylakoider heitere "Stroma".
+
+Her er eit diagram på engelsk:
+![](https://cdn.kastatic.org/ka-perseus-images/3cfb6345270232cd45b0e8a1a5807fa4cf0e0a83.png)
