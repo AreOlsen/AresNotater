@@ -64,7 +64,7 @@ ABC Formelen, i motsetnad til alle andre formelene kan enkelt finne faktorer med
 
 ABC Formelen (Kvadratiske formelen):
 
-$\large \begin{array}{*{20}c} {x_1,_2 = \frac{ - b \pm \sqrt{b^2 - 4ac} }{2a}} & {{\rm{når}}} & {ax^2 + bx + c = 0} \\ \end{array}$
+$\large \frac{ - b \pm \sqrt{b^2 - 4ac} }{2a}$ når $ ax^2 + bx + c = 0$
 
 _A = Koeffisient i første term_
 _B = Koeffisient i andre term_
