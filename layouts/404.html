@@ -1,15 +1,19 @@
 <!DOCTYPE html>
 <html lang="{{ .Lang }}">
-{{ partial "head.html" . }}
+  {{ partial "head.html" . }}
 
-<body>
-<div class="singlePage">
-    {{partial "darkmode.html" .}}
-    <div class="centered">
+  <body>
+    <div class="singlePage">
+      {{partial "darkmode.html" .}}
+      <div class="centered">
         <h1>404.</h1>
+        <p>
+          Av og til fungerer ikkje lenken, prøv å settje /notes/ i lenken forann namnet på filen.
+          Eller sjekk ut githuben (i notes mappen).
+        </p>
         <h3>{{ i18n "404_message" }}</h3>
         <a href="{{ .Site.BaseURL }}">{{ i18n "404_back" }}</a>
+      </div>
     </div>
-</div>
-</body>
+  </body>
 </html>
